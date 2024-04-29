@@ -5,10 +5,11 @@ export enum UserFields {
   EMAIL_VERIFIED = 'email_verified',
   FIRST_NAME = 'first_name',
   LAST_NAME = 'last_name',
-  ROLE = 'role',
+  ROLES = 'roles',
   STATUS = 'status',
   DATE_CREATED = 'date_created',
   LAST_ACCESS = 'last_access',
-  COACH = 'coach',
+  COACHES = 'coaches',
   MUNICIPALITY = 'municipality',
+  INSTITUTION = 'institution',
 }
