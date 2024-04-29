@@ -11,7 +11,7 @@ npm install @xbisa/appabilitypackage
   ```typescript
 import { PureAbility } from '@casl/ability';
 import { inject, Injectable } from '@angular/core';
-import { Action, defineAbilityFor, Subjects, User } from '@xbisa/appability';
+import { Action, defineAbilityFor, Subjects, User } from '@xbisa/appabilitypackage';
 import { AccountService } from './account.service';
 
 @Injectable({
